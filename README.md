@@ -11,3 +11,5 @@ A beautifully structured, responsive menu landing page demonstrating precise typ
     * **Box Model Mechanics:** Custom padding, container max-widths, and margin resets (`margin: auto`) to flawlessly center components on any screen scale.
     * **Visual Elements:** Custom horizontal rules (`<hr>`), semantic background property pairings, and explicit color matching rules.
     * **Negative Margin Shifting:** Utilizing strategic negative offsets (`margin-top: -25px;`) to precisely realign structural elements under visual icons.
+    * <img width="1920" height="1080" alt="Screenshot 2026-06-19 184052" src="https://github.com/user-attachments/assets/6fc8cf42-2293-4f5d-9b15-5fc3fcb42e19" />
+
