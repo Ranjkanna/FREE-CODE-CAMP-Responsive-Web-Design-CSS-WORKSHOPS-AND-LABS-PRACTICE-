@@ -1,4 +1,4 @@
-# Responsive Web Design & CSS Styling Workshops 🎨
+# Responsive Web Design & HTML AND CSS Styling Workshops 🎨
 
 A collection of semantic HTML5 and modern CSS3 user interface components, layout experiments, and responsive styling labs.
 
