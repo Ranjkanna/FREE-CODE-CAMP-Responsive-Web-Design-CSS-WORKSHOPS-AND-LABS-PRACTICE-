@@ -48,12 +48,8 @@ The project focuses heavily on mastering the anchor (`<a>`) tag states. The link
 | **Hover** | `a:hover` | 🟢 Green | Triggered when a user hovers their mouse cursor over the link. |
 | **Active** | `a:active` | 🟡 Yellow | The brief color flash right at the exact moment the link is clicked. |
 
-> 💡 **Note on CSS Order:** The styles follow the strict **LVHA-order** (`:link`, `:visited`, `:hover`, `:active`) ensuring that the pseudo-classes override each other correctly without breaking.
+> 💡 **Note on CSS Order:** The styles follow the strict **LVHA-order** (`:link`, `:visited`, `:hover`, `:active`) ensuring that the pseudo-classes override each other correctly without breaking
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75c04996-782c-49fd-b520-5cb5ae49fc21" />
 
-## 🏗️ How to Run the Project
-
-1. Save the HTML code into a file named `index.html`.
-2. Save the CSS code into a file named `styles.css` in the same folder.
-3. Open `index.html` in any modern web browser to see it in action!
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6843acfb-5aab-42d3-aa67-03f06fe6c16b" />
 
