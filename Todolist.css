@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Styled To-Do List</title>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+<ul class="todo-list"> <li>
+        <input type="checkbox" id="list1">
+        <label for="list1">Wakeup</label>
+        <ul class="sub-item">
+            <li>
+                <a href="https://www.youtube.com" class="sub-item-link" target="_blank">Wakeup melody music</a>
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        <input type="checkbox" id="list2"> <label for="list2">Gym</label> <ul class="sub-item">
+            <li>
+                <a href="https://www.youtube.com" class="sub-item-link" target="_blank">Gym workout Music</a>
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        <input type="checkbox" id="list3">
+        <label for="list3">Breakfast</label>
+        <ul class="sub-item">
+            <li>
+                <a href="https://www.youtube.com" class="sub-item-link" target="_blank">Healthy Recipes</a>
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        <input type="checkbox" id="list4">
+        <label for="list4">Office</label>
+        <ul class="sub-item"> <li>
+                <a href="https://www.youtube.com" class="sub-item-link" target="_blank">Motivational and energetic Music</a>
+            </li>
+        </ul>
+    </li>
+
+</ul> </body>
+</html>
+/* style.css */
+
+a{
+  text-decoration: none;
+  }
+  a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+a:focus {
+  color: black;
+  outline: 2px solid black;
+}
+a:hover {
+  color: green;
+}
+
+
+a:active{
+  color:yellow;
+  }
+
