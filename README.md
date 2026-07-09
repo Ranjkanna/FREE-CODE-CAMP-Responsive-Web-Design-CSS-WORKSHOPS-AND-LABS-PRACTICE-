@@ -51,5 +51,19 @@ The project focuses heavily on mastering the anchor (`<a>`) tag states. The link
 > 💡 **Note on CSS Order:** The styles follow the strict **LVHA-order** (`:link`, `:visited`, `:hover`, `:active`) ensuring that the pseudo-classes override each other correctly without breaking
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75c04996-782c-49fd-b520-5cb5ae49fc21" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6843acfb-5aab-42d3-aa67-03f06fe6c16b" />
+# Responsive Web Design: Event Flyer Page
+
+A responsive event flyer webpage built as part of the freeCodeCamp Responsive Web Design certification. This project demonstrates structured HTML5 semantic layout architecture alongside clean, validated CSS positioning and scaling mechanics.
+
+---
+
+## 💻 Project Structure
+
+The project is split cleanly into two structural layers to decouple content markup from presentation styling:
+* `index.html` — Structural markup utilizing semantic headers, sections, and structural dividers.
+* `styles.css` — Box-model parameters, viewport calculations, and percentage-based responsive scaling.
+<img width="1920" height="1080" alt="Screenshot 2026-07-09 230556" src="https://github.com/user-attachments/assets/e3a82c32-384e-434f-b56a-31d1d770cc91" />
+
 
