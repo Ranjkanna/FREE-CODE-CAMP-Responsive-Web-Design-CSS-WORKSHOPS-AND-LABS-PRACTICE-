@@ -88,6 +88,23 @@ A beautifully structured, interactive greeting card component demonstrating mode
 <img width="1920" height="1080" alt="Screenshot 2026-07-10 210217" src="https://github.com/user-attachments/assets/caacf01f-481b-41c0-9681-227251cc9102" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-10 210654" src="https://github.com/user-attachments/assets/8ce4afcb-125f-4293-b562-911ba96144b5" />
 
+# 🏫 Parent Teacher Conference Form
+
+A meticulously structured, responsive registration form designed to handle scheduling coordination between parents and educators with precise layout control and visual harmony.
+
+---
+
+## 🎯 Core Concepts Mastered
+
+### 🛠️ Strategic Form Alignment
+* **Vertical Line Tracking:** Solved traditional baseline offset problems by implementing `vertical-align: bottom;` on customized `.contact-method-radio-btn` classes, locking elements cleanly inline with standard paragraph text.
+* **Native Control Styling:** Leveraged `appearance: none;` on form checkboxes and radio items to remove default operating system skins, permitting bespoke brand borders and dimensions.
+
+### 📐 Scoped Styling Architecture
+* **Structural Isolation:** Isolated styling configurations safely down separate selector streams without repeating component declarations unnecessarily.
+* **Component-Safe Scaling:** Used fluid constraints alongside standard grid/flex components to ensure responsive adaptability on form layouts across all display configurations.
+* <img width="1920" height="1080" alt="Screenshot 2026-07-10 224614" src="https://github.com/user-attachments/assets/9635cfed-3947-49a2-b505-2ab2791c4325" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-10 224647" src="https://github.com/user-attachments/assets/7c5157e4-d66c-4968-9d59-657d51452c28" />
 
 
 
