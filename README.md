@@ -86,6 +86,8 @@ A beautifully structured, interactive greeting card component demonstrating mode
 * **CSS-Only State Toggles:** Implemented a clever `display: none;` layout that reveals hidden informational panels exclusively when their corresponding link anchor triggers the `:target` pseudo-class.
 * <img width="1920" height="1080" alt="Screenshot 2026-07-10 210108" src="https://github.com/user-attachments/assets/8e0abc29-6b12-4c6a-a8b9-732aedcee826" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-10 210217" src="https://github.com/user-attachments/assets/caacf01f-481b-41c0-9681-227251cc9102" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-10 210654" src="https://github.com/user-attachments/assets/8ce4afcb-125f-4293-b562-911ba96144b5" />
+
 
 
 
