@@ -65,5 +65,29 @@ The project is split cleanly into two structural layers to decouple content mark
 * `index.html` — Structural markup utilizing semantic headers, sections, and structural dividers.
 * `styles.css` — Box-model parameters, viewport calculations, and percentage-based responsive scaling.
 <img width="1920" height="1080" alt="Screenshot 2026-07-09 230556" src="https://github.com/user-attachments/assets/e3a82c32-384e-434f-b56a-31d1d770cc91" />
+# 💌 Greeting Card Layout
+
+A beautifully structured, interactive greeting card component demonstrating modern CSS pseudo-classes, dynamic hover animations, and CSS target state transitions.
+
+---
+
+## 🎯 Core Concepts Mastered
+
+### 📦 Box Model & Centering
+* **Responsive Card Constraints:** Configured a sharp `max-width: 400px` structure combined with adaptive padding to create a punchy, compact card footprint.
+* **Flawless Component Alignment:** Leveraged the traditional `margin: 0 auto;` technique to center the card effortlessly within the brown body background.
+
+### 🎭 Micro-Interactions & Transitions
+* **Dynamic Hover Scales:** Paired `transform: scale(1.1);` with `background-color` transitions to give the card a smooth, tactile, "pop-out" depth effect on user hover.
+* **Pseudo-Element Decorators:** Cleanly injected automated party emoji accents (`🥳`) before and after the main header utilizing CSS `::before` and `::after` strings.
+
+### 🔗 Link States & Target Routing
+* **Comprehensive Link Styling:** Mastered the full anchor lifecycle lifecycle by explicitly styling individual `:hover`, `:active`, `:focus`, and `:visited` interactive states.
+* **CSS-Only State Toggles:** Implemented a clever `display: none;` layout that reveals hidden informational panels exclusively when their corresponding link anchor triggers the `:target` pseudo-class.
+* <img width="1920" height="1080" alt="Screenshot 2026-07-10 210108" src="https://github.com/user-attachments/assets/8e0abc29-6b12-4c6a-a8b9-732aedcee826" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-10 210217" src="https://github.com/user-attachments/assets/caacf01f-481b-41c0-9681-227251cc9102" />
+
+
+
 
 
