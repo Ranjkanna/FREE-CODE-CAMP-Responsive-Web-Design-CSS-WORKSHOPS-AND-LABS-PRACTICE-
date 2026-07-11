@@ -107,7 +107,8 @@ A meticulously structured, responsive registration form designed to handle sched
 <img width="1920" height="1080" alt="Screenshot 2026-07-10 224647" src="https://github.com/user-attachments/assets/7c5157e4-d66c-4968-9d59-657d51452c28" />
   
 ## Job Application form
-* **code uses the `:has()` selector (`.radio-group label:has(...)`). This is a fantastic modern CSS feature that lets you style a parent element based on its children! It is fully supported in all major modern browsers
+* **code uses the `:has()` selector (`.radio-group label:has(...)`). This is a fantastic modern CSS feature that style a parent element based on its children! It is fully supported in all major modern browsers
+<img width="1920" height="1080" alt="Screenshot 2026-07-11 222833" src="https://github.com/user-attachments/assets/6bef3bd6-a753-481d-b2c1-cf1d585e9822" />
 
 
 
