@@ -110,5 +110,29 @@ A meticulously structured, responsive registration form designed to handle sched
 * **code uses the `:has()` selector (`.radio-group label:has(...)`). This is a fantastic modern CSS feature that style a parent element based on its children! It is fully supported in all major modern browsers
 <img width="1920" height="1080" alt="Screenshot 2026-07-11 222833" src="https://github.com/user-attachments/assets/6bef3bd6-a753-481d-b2c1-cf1d585e9822" />
 
+## Color Marker 
+
+A simple CSS project demonstrating color gradients, color formats (`rgb`, `rgba`, `hex`, `hsl`, `hsla`), and custom `box-shadow` styling on HTML markers.
+
+---
+**Linear Gradients:** Uses 3-stop gradients for a 3D cylindrical marker effect.
+* **Color Models Used:**
+  * **RGB / RGBA:** `rgb()` for solid red values and `rgba()` for transparent shadows/sleeves.
+  * **HEX:** Standard 6-digit hex and 8-digit hex (`#3B7E20CC`) with alpha channel transparency.
+  * **HSL / HSLA:** Hue, saturation, and lightness color stops for the blue marker.
+  * 🛠️ Box-Shadow Requirements Breakdown
+
+The `box-shadow` property adds a drop shadow effect around the marker elements using the syntax:
+`box-shadow: [offsetX] [offsetY] [blurRadius] [spreadRadius] [color];`
+
+| Selector | `offsetX` | `offsetY` | `blurRadius` | `spreadRadius` | Color Model & Value | Alpha / Transparency |
+| :--- | :---: | :---: | :---: | :---: | :--- | :---: |
+| `.red` | `0` | `0` | `20px` | `0` | **RGBA:** `rgba(83, 14, 14, 0.8)` | `80%` |
+| `.green` | `0` | `0` | `20px` | `0` | **8-Digit Hex:** `#3B7E20CC` | `CC` (~80%) |
+| `.blue` | `0` | `0` | `20px` | `0` | **HSLA:** `hsla(223, 59%, 31%, 0.8)` | `80%` |
+
+---
+  * * **Glow Effect:** Setting both horizontal (`offsetX`) and vertical (`offsetY`) offsets to `0` along with a positive `blurRadius` creates a soft, centered glow around each marker rather than a directional drop-shadow.
+* **Alpha Channel Color Formats:** Demonstrates three distinct syntax patterns (`rgba`, 8-digit `#RRGGBBAA` Hex, and `hsla`) to apply identical semi-transparent shadow thresholds (`0.8` / `80%`).
 
 
