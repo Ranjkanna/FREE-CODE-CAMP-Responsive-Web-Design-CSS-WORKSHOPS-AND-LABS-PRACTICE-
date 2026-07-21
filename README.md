@@ -134,5 +134,17 @@ The `box-shadow` property adds a drop shadow effect around the marker elements u
 ---
   * * **Glow Effect:** Setting both horizontal (`offsetX`) and vertical (`offsetY`) offsets to `0` along with a positive `blurRadius` creates a soft, centered glow around each marker rather than a directional drop-shadow.
 * **Alpha Channel Color Formats:** Demonstrates three distinct syntax patterns (`rgba`, 8-digit `#RRGGBBAA` Hex, and `hsla`) to apply identical semi-transparent shadow thresholds (`0.8` / `80%`).
+<img width="1920" height="1080" alt="Screenshot 2026-07-20 211523" src="https://github.com/user-attachments/assets/f1b57a54-234c-4a9f-885f-17c005a574ff" />
+### Design a Set of Colored Boxes
+
+The goal of this lab is to create a set of five colored boxes using different CSS color format methods, including:
+- **Hexadecimal** (`#ff0000`)
+- **RGB** (`rgb(...)`)
+- **Named / Predefined Words** (`blue`, `purple`)
+- **HSL** (`hsl(...)`)
+- <img width="1920" height="1080" alt="Screenshot 2026-07-21 221818" src="https://github.com/user-attachments/assets/4404459a-b31e-48cc-93fa-3e156537221c" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 221858" src="https://github.com/user-attachments/assets/212c6269-2f9e-4f81-8b64-64f1ddf2aa02" />
+
+
 
 
