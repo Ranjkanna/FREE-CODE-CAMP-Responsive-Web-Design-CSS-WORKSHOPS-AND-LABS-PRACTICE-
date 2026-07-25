@@ -145,6 +145,37 @@ The goal of this lab is to create a set of five colored boxes using different CS
 - <img width="1920" height="1080" alt="Screenshot 2026-07-21 221818" src="https://github.com/user-attachments/assets/4404459a-b31e-48cc-93fa-3e156537221c" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-21 221858" src="https://github.com/user-attachments/assets/212c6269-2f9e-4f81-8b64-64f1ddf2aa02" />
 
+# ##Registration form
+1. Semantic & Accessible Structure
+<fieldset> & <legend>: Groups forms into clean, logical sections rather than endless stacked inputs.
+
+Implicit Label Wrapping: Encloses <input> inside <label> elements for improved screen-reader accessibility and direct tap/click targets.
+
+2. Built-in HTML5 Validation
+Strict Email & Required Fields: Enforces required entries without needing extra JavaScript (required, type="email").
+
+Regex Pattern Matching: Uses pattern="[a-z0-5]{8,}" on the password field to enforce an 8+ character rule containing lowercase letters and digits 0-5.
+
+Value Bounds: Constrains numeric inputs cleanly using min="13" and max="120".
+
+3. Controlled Radio & Checkbox Logic
+Shared name Attribute: Grouping radio buttons with name="account-type" ensures only one option (Personal vs. Business) can be active at a time.
+
+Inline Overrides: Uses a custom .inline utility class (width: unset) to prevent radio/checkbox buttons from stretching full-width.
+
+4. Responsive & Centered CSS Layout
+Fluid Boundaries: Controls form width dynamically across devices using width: 60vw clamped between min-width: 300px and max-width: 500px.
+
+Auto Margins: Centers the primary container (margin: 0 auto) and action elements horizontally.
+
+5. Clean Dark Theme Palette
+Layered Background Contrast: Features a #1b1b32 page background paired with deep #0a0a23 input fields and clean #dfdfe2 link accents for sharp contrast.
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-25 205153" src="https://github.com/user-attachments/assets/f932af6b-534f-4bcf-b5f7-6df449c57705" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-25 205256" src="https://github.com/user-attachments/assets/37b549bc-e2a3-4bf1-8cc7-4e9e5398a8ac" />
+
+
+
 
 
 
