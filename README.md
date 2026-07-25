@@ -174,7 +174,14 @@ Layered Background Contrast: Features a #1b1b32 page background paired with deep
 <img width="1920" height="1080" alt="Screenshot 2026-07-25 205153" src="https://github.com/user-attachments/assets/f932af6b-534f-4bcf-b5f7-6df449c57705" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-25 205256" src="https://github.com/user-attachments/assets/37b549bc-e2a3-4bf1-8cc7-4e9e5398a8ac" />
 
+# ##Build a Game Settings Panel
 
+A clean, modern CSS implementation for custom-styled checkboxes inside a centered settings card. Key features include:
+
+* **Custom Checkbox UI:** Replaces native browser checkboxes with a custom `#f1be32` theme and animated checkmark.
+* **Centered Alignment:** Uses flexbox alignment within the `::after` pseudo-element to guarantee the checkmark remains perfectly centered across all screen resolutions.
+* **Keyboard Accessibility:** Built-in `:focus-visible` ring support to ensure full accessibility for keyboard-navigating users after overriding default input styles (`appearance: none`).
+<img width="1920" height="1080" alt="Screenshot 2026-07-25 232829" src="https://github.com/user-attachments/assets/2621e19a-b9b9-4374-84ad-9dbdfe91e60e" />
 
 
 
