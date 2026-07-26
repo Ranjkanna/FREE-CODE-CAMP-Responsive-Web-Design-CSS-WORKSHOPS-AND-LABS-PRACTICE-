@@ -183,6 +183,10 @@ A clean, modern CSS implementation for custom-styled checkboxes inside a centere
 * **Keyboard Accessibility:** Built-in `:focus-visible` ring support to ensure full accessibility for keyboard-navigating users after overriding default input styles (`appearance: none`).
 <img width="1920" height="1080" alt="Screenshot 2026-07-25 232829" src="https://github.com/user-attachments/assets/2621e19a-b9b9-4374-84ad-9dbdfe91e60e" />
 
+# ##Feature Selection lab
+<img width="1920" height="1080" alt="Screenshot 2026-07-26 203314" src="https://github.com/user-attachments/assets/42dc6753-73e0-4789-8d35-0331ae0a652b" />
+
+
 
 
 
