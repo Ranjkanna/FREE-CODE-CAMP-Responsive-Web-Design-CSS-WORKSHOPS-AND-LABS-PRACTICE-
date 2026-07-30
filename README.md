@@ -186,6 +186,8 @@ A clean, modern CSS implementation for custom-styled checkboxes inside a centere
 # ##Feature Selection lab
 <img width="1920" height="1080" alt="Screenshot 2026-07-26 203314" src="https://github.com/user-attachments/assets/42dc6753-73e0-4789-8d35-0331ae0a652b" />
 
+# ##Build a confidential email page
+<img width="1920" height="1080" alt="Screenshot 2026-07-30 220221" src="https://github.com/user-attachments/assets/51109216-b0c0-4e8d-bc50-ec070cafdb5a" />
 
 
 
