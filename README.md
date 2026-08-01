@@ -189,6 +189,20 @@ A clean, modern CSS implementation for custom-styled checkboxes inside a centere
 # ##Build a confidential email page
 <img width="1920" height="1080" alt="Screenshot 2026-07-30 220221" src="https://github.com/user-attachments/assets/51109216-b0c0-4e8d-bc50-ec070cafdb5a" />
 
+# ##Photogallery
+<img width="1920" height="1080" alt="Screenshot 2026-08-01 211759" src="https://github.com/user-attachments/assets/7cd166d8-789a-423c-84e7-bae90e653386" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-01 211822" src="https://github.com/user-attachments/assets/5e7012f1-a842-4071-b48a-1975259f2730" />
+**Zero Media Queries Required: achieve seamless responsiveness from mobile screens to 4K displays purely through flex-wrap: wrap, width: 100%, and max-width: 350px.
+
+Aspect Ratio Protection: object-fit: cover eliminates image stretching across mixed-source photo aspect ratios without needing backend image processing or cropping.
+
+Modern Box Model Standards: Using universal box-sizing: border-box ensures padding and borders never expand image cards beyond their assigned width boundaries.
+
+Cleaner Spacing Architecture: Leveraging native gap: 16px on the parent flex container avoids fragile margin calculations or complex pseudo-selectors on child items.
+
+Orphaned Row Fix: The .gallery::after pseudo-element provides a lightweight CSS hack to prevent centered flex containers from visually misaligning dangling images on the last row.
+
+Strict Style Reset: Explicit body { margin: 0; } prevents unpredictable cross-browser default outer margins from introducing unwanted horizontal scrollbars
 
 
 
