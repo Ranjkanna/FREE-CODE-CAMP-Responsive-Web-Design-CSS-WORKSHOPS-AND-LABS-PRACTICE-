@@ -229,4 +229,7 @@ Strict Style Reset: Explicit body { margin: 0; } prevents unpredictable cross-br
 <img width="1920" height="1080" alt="Screenshot 2026-08-01 223329" src="https://github.com/user-attachments/assets/cab1fdad-15ca-4188-9bc1-25043c9947c4" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-01 223422" src="https://github.com/user-attachments/assets/f99a21b9-7171-4924-aed9-aede233f1738" />
 
+# ## Design a Pricing Plans Layout Page
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-02 184322" src="https://github.com/user-attachments/assets/62c75f11-6e44-46cf-9e29-41fcda58708c" />
 
