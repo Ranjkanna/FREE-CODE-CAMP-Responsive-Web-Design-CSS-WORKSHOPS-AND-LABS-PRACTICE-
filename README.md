@@ -233,3 +233,22 @@ Strict Style Reset: Explicit body { margin: 0; } prevents unpredictable cross-br
 
 <img width="1920" height="1080" alt="Screenshot 2026-08-02 184322" src="https://github.com/user-attachments/assets/62c75f11-6e44-46cf-9e29-41fcda58708c" />
 
+# ##Build a nutritional label
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 172745" src="https://github.com/user-attachments/assets/5d4bd359-ace3-4f12-80b9-0d9e1339ff01"/>
+* **Typography & Hierarchy (rem, em, and Custom Fonts)**
+Relative Units: Uses rem for general font scaling relative to the root (16px) and em for elements like calories to scale relative to their parent container.
+
+Font Weights: Utilizes custom Google Fonts (Open Sans) with specific weights (400, 700, 800) to match standard FDA nutrition label specifications.
+* **Space Distribution with Flexbox**
+justify-content: space-between: Automatically pushes nutrient labels to the left and their corresponding values or percentages to the far right.
+
+align-items: flex-end: Aligns the bottom of the "Calories" text cleanly with the large calorie number (230).
+* **Visual Separation & Borders**
+Divider Thickness: Uses multi-sized divider lines (.large, .medium, and standard .divider) using background-color and height to create authentic visual visual breaks.
+
+Conditional Borders: Uses the CSS :not() pseudo-class selector to apply bottom borders to all nutrient lines except those with the .no-divider class.
+* **Text Indentation & Hanging Indents**
+Sub-nutrients: Uses utility classes (.indent and .double-indent) with margin-left to cleanly hierarchy sub-items like Saturated Fat and Includes Added Sugars.
+
+Hanging Indent: Employs a negative text-indent with matching left padding on the .note class so the footnote asterisk (*) hangs cleanly to the left of wrapped text block.
