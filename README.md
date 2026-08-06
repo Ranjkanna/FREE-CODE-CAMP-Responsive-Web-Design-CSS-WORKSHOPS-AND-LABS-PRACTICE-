@@ -251,4 +251,9 @@ Conditional Borders: Uses the CSS :not() pseudo-class selector to apply bottom b
 * **Text Indentation & Hanging Indents**
 Sub-nutrients: Uses utility classes (.indent and .double-indent) with margin-left to cleanly hierarchy sub-items like Saturated Fat and Includes Added Sugars.
 
+# ##Newspaper Article
+![Uploading Screenshot 2026-08-06 221018.png…]()
+
+
 Hanging Indent: Employs a negative text-indent with matching left padding on the .note class so the footnote asterisk (*) hangs cleanly to the left of wrapped text block.
+#
