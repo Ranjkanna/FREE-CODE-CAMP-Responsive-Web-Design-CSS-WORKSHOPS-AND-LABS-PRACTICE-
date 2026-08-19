@@ -256,4 +256,17 @@ Sub-nutrients: Uses utility classes (.indent and .double-indent) with margin-lef
 
 
 Hanging Indent: Employs a negative text-indent with matching left padding on the .note class so the footnote asterisk (*) hangs cleanly to the left of wrapped text block.
-#
+## Build an Accessibility Quiz Webpage
+
+A responsive, accessible quiz form built using semantic HTML5 and accessibility-focused CSS techniques. Key features include:
+
+* **Accessible Form Controls:** Uses semantic `<fieldset>`, `<legend>`, and `<label>` tags with explicit `for` and `id` attributes for screen readers.
+* **Motion Accessibility:** Encloses `scroll-behavior: smooth` within `@media (prefers-reduced-motion: no-preference)` to respect user device preferences.
+* **Flexbox Navigation & Layout:** Implements `display: flex` and `flex-wrap: wrap` on `nav > ul` elements to prevent content overflow on smaller viewports.
+* **High Contrast Palette:** Utilizes high contrast ratio colors (`#1b1b32`, `#dfdfe2`) across text, header links, and footer sections for improved readability.
+* **Fluid Section Limits:** Restricts core section widths to `80%` clamped at a `max-width: 600px` with auto margins for clean horizontal centering.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0558c151-69a1-48fc-bb16-773ec0636a5f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b71982f7-a3f0-485a-bd79-983f13f5c2b2" />
+
+
