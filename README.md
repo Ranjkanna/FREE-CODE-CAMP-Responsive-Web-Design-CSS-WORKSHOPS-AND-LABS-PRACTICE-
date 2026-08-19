@@ -269,4 +269,16 @@ A responsive, accessible quiz form built using semantic HTML5 and accessibility-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0558c151-69a1-48fc-bb16-773ec0636a5f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b71982f7-a3f0-485a-bd79-983f13f5c2b2" />
 
+##Build a Tribute Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c38c4f04-ca7a-4d01-9bb7-3030068a6858" />
+## Build a Tribute Page
+
+A clean, responsive tribute webpage honoring Dr. Norman Borlaug. Key features include:
+
+* **Semantic Layout:** Structured using `<main>`, `<figure>`, `<figcaption>`, and `<section>` tags for clear content hierarchy.
+* **Responsive Image:** Implements `max-width: 100%`, `height: auto`, and `display: block` with auto margins on the `#image` to ensure seamless centering and fluid scaling across viewports.
+* **Accessible Linking:** Features a dedicated `#tribute-link` targeting `_blank` to safely navigate users to external biographical sources.
+
+
+
 
