@@ -291,4 +291,12 @@ CSS Transforms & Rotations: Applying transform: rotate(...) to angle whiskers, m
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d97d2e35-285f-469a-b129-5275c3805327" />
 
+### Build a House Painting
+
+A CSS illustration project featuring a structured house layout built entirely with absolute positioning and custom styling. Key features include:
+
+* **Relative Container Setup:** `#house` acts as the root boundary (`position: relative;`), allowing child elements like roof, chimney, windows, and door to position accurately inside it.
+* **Centered Door Positioning:** `#door` utilizes `left: 50%` combined with `transform: translateX(-50%)` and `bottom: 0` to ensure perfect horizontal centering along the base.
+* **Layering & Depth:** `#chimney` employs a negative `z-index` (`-1`) to tuck seamlessly behind the roof boundary for proper visual elevation.
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e72b3e-b1e8-49bf-99b1-078f7a5c5778" />
 
