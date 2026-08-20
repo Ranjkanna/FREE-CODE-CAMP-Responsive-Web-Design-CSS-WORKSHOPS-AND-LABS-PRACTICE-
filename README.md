@@ -278,7 +278,17 @@ A clean, responsive tribute webpage honoring Dr. Norman Borlaug. Key features in
 * **Semantic Layout:** Structured using `<main>`, `<figure>`, `<figcaption>`, and `<section>` tags for clear content hierarchy.
 * **Responsive Image:** Implements `max-width: 100%`, `height: auto`, and `display: block` with auto margins on the `#image` to ensure seamless centering and fluid scaling across viewports.
 * **Accessible Linking:** Features a dedicated `#tribute-link` targeting `_blank` to safely navigate users to external biographical sources.
+🐱 Cat Painting Layout
+An intricate, pure CSS artwork demonstrating advanced absolute positioning, geometric transformations, multi-layered shapes, and descendant selectors.
 
+Core Concepts Mastered:
 
+Absolute Positioning & Layering: Utilizing position: absolute with precise offset properties (top, left, right) and explicit z-index values to stack facial features seamlessly.
+
+Descendant Selectors: Targeting child structural elements (e.g., .cat-whiskers-left div, .cat-mouth div) to apply shared dimensions, borders, and base styles cleanly across multiple elements.
+
+CSS Transforms & Rotations: Applying transform: rotate(...) to angle whiskers, mouth lines, and ears for organic positioning and symmetry.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d97d2e35-285f-469a-b129-5275c3805327" />
 
 
