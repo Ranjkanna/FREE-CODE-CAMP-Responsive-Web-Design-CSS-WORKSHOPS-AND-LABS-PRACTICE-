@@ -300,3 +300,16 @@ A CSS illustration project featuring a structured house layout built entirely wi
 * **Layering & Depth:** `#chimney` employs a negative `z-index` (`-1`) to tuck seamlessly behind the roof boundary for proper visual elevation.
 * <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e72b3e-b1e8-49bf-99b1-078f7a5c5778" />
 
+### Balance Sheet
+Accessibility First (.sr-only): Employs an accessible utility class using a combination of clip-path, clip, width: 1px, and height: 1px to visually hide content while keeping it available to screen readers.
+
+Sticky Positioning & Z-Index (#years): Locks the year headers to the top of the viewport (position: sticky; top: 0; z-index: 999;) so column labels remain visible as users scroll through financial data.
+
+Responsive Title Layout (h1 .flex): Uses Flexbox with flex-direction: column-reverse to reorder elements visually, placing secondary text above the main title using scalable em font sizes.
+
+Background Gradient Strategy (tr.data): Uses linear-gradient(to bottom, ...) on table rows to create custom horizontal dividing stripes without relying on traditional border styles.
+
+Precision Padding & Alignment: Employs precise right-alignment (text-align: right) for numeric data and targets boundary cells using :nth-of-type(3) and :last-of-type to maintain consistent right margins across different row types.
+
+Calculated Widths (tbody th): Uses CSS calc(100% - 12rem) to dynamically calculate the width of table header cells while reserving a fixed total width for numeric data columns (td).
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e140ac37-9b66-43ab-84e0-aa64b3cdb740" />
